@@ -1,0 +1,82 @@
+header{
+    background-color: black;
+    display: flex;
+     
+}
+ .navbar h4, h1,p ,span{
+     color: white;
+ }
+   
+ .submit{
+   width: 25%;
+ }
+ header p{
+     width: 25%;
+ }
+ .navbar{
+     width: 50%;
+     display: inline-block;
+ }
+ .submit button{
+    color: white;
+    background-color: orange;
+    margin-top: 41px;
+    border-style: none;
+    
+ }
+ span{
+     padding-right: 7px;
+     margin-left: 18px;
+      
+ }
+ section{
+     position: relative;
+ }
+  .main{
+      text-align: center;
+     display: flex; 
+     
+    margin-left: 198px;
+    margin-top: 39px;
+
+  }
+  .text p{
+      color: black;
+  }
+  .text{
+      display: inline-block;
+      margin-bottom: 1px;
+       
+background-color: gray;
+ 
+  }
+  .image{
+      
+  }
+  .text a{
+      color: orange;
+      margin-left: 235px;
+  }
+  .newtext{
+      display: flex;
+  }
+  .newtext p{
+      color: black;
+      font-size: 30px;
+  }
+  .lorem{
+      margin-left: 202px;
+  }
+  .images{
+      margin-left: 87px;
+  }
+ section a{
+    color: orange;
+    margin-left: 55%;
+ }
+ .fromblog p{
+     color: black;
+ }
+ .fromblog{
+     display:inline-block;
+ }
