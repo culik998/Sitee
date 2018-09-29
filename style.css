@@ -12,6 +12,7 @@ header{
  }
  header p{
      width: 25%;
+     margin: 0;
  }
  .navbar{
      width: 50%;
@@ -74,9 +75,32 @@ background-color: gray;
     color: orange;
     margin-left: 55%;
  }
- .fromblog p{
+ .footer p{
      color: black;
  }
- .fromblog{
-     display:inline-block;
+  
+ hr{
+     width: 80%;
+ }
+ .footer{
+     display: flex;
+     margin-left: 61px;
+ }
+ .quick ul{
+     
+    margin: 30px;
+    padding: 20px;
+
+ }
+ .fromthelink{
+     
+    margin-left: 134px;
+
+ }
+ .last a{
+     margin-left: 75%;
+ }
+ footer {
+     background-color: black;
+     padding-bottom: 55px;
  }
